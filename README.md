@@ -1,3 +1,6 @@
+For Mac enthusiasts who want to run macOS Big Sur or macOS Monterey on Unsupported Mac hardware.
+Added Support for macOS Big Sur 11.6.8, macOS Monterey 12.5 as of 8.13.22
+
 ## Recommended Flash Drive or a USB 2.0 / 3.0 SSD
 For Big Mac 2 installer disks, I use Samsung Flash Drive FIT Media 32GB. Once you have disabled SIP and authenticated-root, you can install BigMac 2 to an internal SSD or Harddrive on a 32GB APFS Partition. Remember if you ZAP your PRAM, you'll need to use your USB 2.0 Drive instead.
 
